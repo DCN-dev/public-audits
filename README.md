@@ -1,6 +1,6 @@
 # What is this?
 
-This is a place for people interested in Smart Contract development to learn from eachother and the Smart Contracts published to the blockchain.
+This is a place for people interested in Smart Contract development to learn from each other and the Smart Contracts published to the blockchain.
 
 ## Ethics
 
@@ -29,7 +29,7 @@ The goal of an attack audit is to exploit the contract logic to either lock, des
 
 ## Responsible Disclosure
 
-Depending on the context of the situation, an ethical action may not be straight forward. Below are a few options I personally find reasonable and ethical. If you disagree or have thoughts, happy to discus (open an issue).
+Depending on the context of the situation, an ethical action may not be straight forward. Below are a few options I personally find reasonable and ethical. If you disagree or have thoughts, happy to discuss (open an issue).
 
 ### Option A
 
@@ -43,17 +43,19 @@ After an exploit is found, find the party most responsible for the project. If t
 
 ### Option B
 
-1. contact trusted public figures (todo: build list) providing serverity and limited details
-2. publicly announce the severity of the issue / exploit alongside trusted figure for crediablity
+1. contact trusted public figures (todo: build list) providing severity and limited details
+2. publicly announce the severity of the issue / exploit alongside trusted figure for credibility
 3. no earlier than 90 days after disclosure, publicly share details of the issue / exploit
 4. no earlier than 90 days, run [Option C](#option-c) with remaining funds.
 
 ### Option C
 
-1. contact multiple trust worthy people in the community (todo: build list) and share plan
+1. contact multiple trustworthy people in the community (todo: build list) and share plan
 2. setup a multisig wallet with those community members who agree with plan
 3. exploit and drain the contract to the mutlisig wallet
 4. publicly share intention and members of multi sig wallet
 5. use blockchain analysis to determine correct ownership of drained funds
 6. deploy fund recovery contract
 7. take no more than 10% of value for bounty, if amount is large, 1% may be more appropriate
+
+
