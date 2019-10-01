@@ -8,7 +8,7 @@ A lot of the effort here will be put to understand Smart Contracts that are on t
 
 ## Rules
 
-1. Do not share non-public exploits on this project without first following [Responsible Disclosure](#Responsible Disclosure)
+1. Do not share non-public exploits on this project without first following [Responsible Disclosure](#responsible-disclosure)
 2. Do not begin an [Attack](#Attack) audit on this project if the contract does not meet our requirements
 
 ## Types of Audits
