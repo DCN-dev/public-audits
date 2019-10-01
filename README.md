@@ -2,6 +2,11 @@
 
 This is a place for people interested in Smart Contract development to learn from each other and the Smart Contracts published to the blockchain.
 
+
+## Active Audits
+
+ - [ETHMagic](https://github.com/DCN-dev/public-audits/pull/1)
+
 ## Ethics
 
 A lot of the effort here will be put to understand Smart Contracts that are on the public Blockchain. In the quest for knowledge, we may uncover the ability to lock, destroy, or steal Virtual Currency. Because of this fact, this project will have rules and structure to try and best support the community. With some inspiration, I'm mostly making up these rules to serve what I think would be an ethical environment to do this learning. I doubt it's perfect and I'm open to feedback (open an issue).
